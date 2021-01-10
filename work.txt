@@ -1,48 +1,27 @@
-STRML.net
+YOYO CV
 =========
 
-Samuel Reed
-CTO, BitMEX (The Bitcoin Mercantile Exchange)
-Full-Stack / NodeJS / DevOps
+Yehoyada Shtinmetz
+Backend / NodeJS / Docker / MongoDB / PYTHON / C / CPP / JAVA
 
 Contact
 -------
 
-* sam at bitmex dot com
-* samuel.trace.reed at gmail dot com
-* STRML on irc.freenode.net
-* @STRML_ on Twitter
+* hvuhsg on github dot com
+* yehoyada.shteinmetz at facebook
+* hvuhsg5 at gmail dot com
+* @yoyo_programming on telegram
 
 Projects
 --------
 
-* www.BitMEX.com
-* www.Securesha.re
-* www.Tixelated.com
-* www.BrightestYoungThings.com
+* www.qwhale.ml (MongoDB storage as service)
+* app.qwhale.ml (movies website)
+* jsworker.ml a new way to monetize your website (in progress)
 and of course...
-* www.strml.net
+* www.yoyocv.ml
 
 Open Source
 -----------
 
-* Babel
-* React-Grid-Layout
-* React-LocalStorage
-* React-Router-Component
-* React-Resizable
-* React-Draggable
-* OpenBazaar
-* JSXHint
-* BTChip-Signing-Tools
-* TextFit
-* Imgur-to-GFYcat
-* backbone.queryRouter
-* backbone.layoutManager
-* Mongoose-Filter-Denormalize
-
-Photos
-------
-
-* [Party Rock is in the hou](/img/partyrock1.jpg)
-  * [se tonight](/img/partyrock2.jpg)
+Jast checkout my github...

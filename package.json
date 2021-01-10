@@ -1,5 +1,5 @@
 {
-  "name": "strml.net",
+  "name": "yoyocv",
   "version": "0.0.1",
   "description": "",
   "main": "app.js",
@@ -9,7 +9,7 @@
     "dev": "webpack serve --open",
     "watch": "webpack --progress --watch"
   },
-  "author": "Samuel Reed <samuel.trace.reed@gmail.com> (http://strml.net/)",
+  "author": "Yehoyada Shtinmetz",
   "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.12.10",
